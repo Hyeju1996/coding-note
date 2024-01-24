@@ -753,5 +753,44 @@ var i = 3;
 var a = 10;
 var b = 20;
 var c = a + b;
+
+console.log(c);
 ```
 
+## Function: 
+
+```
+Function addTwoNums(){
+    //code goes here
+}
+```
+
+### Other Example Function:
+
+```
+function addTwoNums() {
+    var a = 10;
+    var b = 20;
+    var c = a + b;
+
+console.log (c);
+
+AddTwoNums(); 
+}
+```
+
+### Other code:
+
+``` 
+functiom addTwoNums (a,b) {
+    var c = a +b; 
+    console.log (c);
+}
+
+add TwoNums(2,2);
+add TwoNums(4,4);
+```
+
+**In console:**
+`4`
+`8`
